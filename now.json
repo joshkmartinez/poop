@@ -1,0 +1,9 @@
+{
+  "name": "Poop",
+  "alias": ["poop","cum"],
+  "version": 2,
+  "builds": [{ "src": "next.config.js", "use": "@now/next" }],
+  "github": {
+    "silent": true
+  }
+}
